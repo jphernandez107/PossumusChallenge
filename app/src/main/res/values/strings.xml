@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PossumusChallenge</string>
+    <string name="quit">Quit</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="search">Search</string>
+    <string name="select_category">Select Category</string>
+    <string name="answer_15_quick_questions">Answer 15 quick questions</string>
+</resources>
